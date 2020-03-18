@@ -25,6 +25,7 @@
     "build"
   ],
   "devDependencies": {
+    "@ckeditor/ckeditor5-upload": "^17.0.0",
     "@ckeditor/ckeditor5-adapter-ckfinder": "^17.0.0",
     "@ckeditor/ckeditor5-autoformat": "^17.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^17.0.0",
